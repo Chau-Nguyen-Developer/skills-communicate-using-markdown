@@ -12,3 +12,21 @@ Use > to quote something
 
 Use [] and () to create an inline link <br>
 Cheatsheet for [GitHub Markdown and Formatting text](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+
+<br>
+Using ``` to wrap around a code example
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+```
+System.out.println("Hello World!");
+```
+
+```
+std::cout << "What a great day!" << std::endl;
+```
+
+
