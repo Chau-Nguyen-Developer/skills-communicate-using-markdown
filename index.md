@@ -1,3 +1,5 @@
+![Image of many buildings light up in New York City night](https://github.com/user-attachments/assets/68cf724f-09d1-4a34-b92b-a874972f8ce2)
+
 # Learning Markdown (1#)
 ## It's never late to learn. (2#)
 ### Learning about different sizes of headers. (3#)
