@@ -29,4 +29,10 @@ System.out.println("Hello World!");
 std::cout << "What a great day!" << std::endl;
 ```
 
+<br>
+# Add a task list exercise
 
+Use the syntax ` - [ ] `
+- [x] Commit once per day
+- [x] Go to bed before 12:30am 🕥
+- [x] Eat more raspberry
